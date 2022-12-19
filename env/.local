@@ -1,0 +1,6 @@
+FB_ACCESS_TOKEN = 
+FB_AD_ACCOUNT_ID = 
+FB_APP_SECRET = 
+FB_APP_ID = 
+GD_SCOPES = https://www.googleapis.com/auth/spreadsheets
+GD_SPREADSHEET_ID = 
